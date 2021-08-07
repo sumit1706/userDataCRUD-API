@@ -20,3 +20,26 @@
  
  DELETE : https://hof60.sse.codesandbox.io/user/delete/type/:userType
  
+ 
+ POST :
+{
+  "newUser" :
+  {
+  "name" : " <YourData> ",
+  "email" : " <YourData> ",
+  "phno" : " <YourData> ",
+  "userType" : " <YourData> "
+  }
+}
+ 
+ PUT :
+{
+   "userData" :
+   {
+   "name" : " <YourData> ",
+   "email" : " <YourData> ",
+   "phno" : " <YourData> ",
+   "userType" : " <YourData> "
+   }
+}
+ 
