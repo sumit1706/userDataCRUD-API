@@ -25,21 +25,23 @@
 {
   "newUser" :
   {
-  "name" : " <YourData> ",
-  "email" : " <YourData> ",
-  "phno" : " <YourData> ",
-  "userType" : " <YourData> "
+  "name" : "YourData",
+  "email" : "YourData",
+  "phno" : "YourData",
+  "userType" : "YourData"
   }
 }
+ 
+ **YourData : Substitute data according to your choice
  
  PUT :
 {
    "userData" :
    {
-   "name" : " <YourData> ",
-   "email" : " <YourData> ",
-   "phno" : " <YourData> ",
-   "userType" : " <YourData> "
+   "name" : "YourData",
+   "email" : "YourData",
+   "phno" : "YourData",
+   "userType" : "YourData"
    }
 }
  
