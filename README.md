@@ -5,7 +5,7 @@ Deployment link{https://hof60.sse.codesandbox.io/}
  
  Endpoints :
  
- GET    : https://hof60.sse.codesandbox.io/
+ GET    : https://hof60.sse.codesandbox.io/ \n
  GET    : https://hof60.sse.codesandbox.io/user/type/:type
  GET    : https://hof60.sse.codesandbox.io/user/:_id
  POST   : https://hof60.sse.codesandbox.io/user/new
