@@ -6,19 +6,19 @@
  
  Endpoints :
  
- GET    : https://hof60.sse.codesandbox.io/ 
+ GET    : / 
  
- GET    : https://hof60.sse.codesandbox.io/user/type/:type
+ GET    : /user/type/:type
  
- GET    : https://hof60.sse.codesandbox.io/user/:_id
+ GET    : /user/:_id
  
- POST   : https://hof60.sse.codesandbox.io/user/new
+ POST   : /user/new
  
- PUT    : https://hof60.sse.codesandbox.io/user/update/:_id
+ PUT    : /user/update/:_id
  
- DELETE : https://hof60.sse.codesandbox.io/user/delete/:_id
+ DELETE : /user/delete/:_id
  
- DELETE : https://hof60.sse.codesandbox.io/user/delete/type/:userType
+ DELETE : /user/delete/type/:userType
  
  
  POST :
